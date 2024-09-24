@@ -1,21 +1,3 @@
----
-author: Humberto (op3n)
-pubDatetime: 2024-09-24T05:00:00.000Z
-modDatetime: 2024-09-24T05:00:00.000Z
-title: Porquê você dev deveria usar o Linux?
-slug: linux-introducao
-featured: false
-draft: false
-tags:
- - basico
- - backend
- - iniciantes
- - minicurso
-description: Entenda o que é, como funciona e como usar TypeScript
----
-
-
-
 # Por que todo programador deveria dominar o Linux? Como isso pode aumentar a sua eficiência e se tornar uma competência essencial?
 
 Quando se trata de Linux, muitas pessoas já torcem o nariz imaginando algo extremamente complicado ou até mesmo dispensável. No entanto, se você é desenvolvedor ou está considerando essa carreira, pode ter certeza de que compreender e dominar Linux irá te elevar a um novo nível! E, aviso de spoiler: não, você não precisa se transformar em um "hacker das galáxias" para obter vantagens.
