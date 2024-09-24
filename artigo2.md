@@ -1,21 +1,3 @@
----
-author: Humberto (op3n)
-pubDatetime: 2024-09-24T05:00:00.000Z
-modDatetime: 2024-09-24T05:00:00.000Z
-title: Como usar o terminal? (Iniciantes)
-slug: terminal-introducao
-featured: false
-draft: false
-tags:
- - backend
- - iniciantes
- - minicurso
- - basico
-description: Aqui, você vai aprender como usar o terminal, aquela ferramenta que praticamente ninguém olha, mas é seu maior aliado!
----
-
-
-
 # Linux: "Do início ao fim, tudo o que você precisa saber."
 
 Olá, meu amigo dev, tudo bem? Eu me chamo Humberto, e estou aqui para te ensinar um pouco sobre o mundo Linux, te mostrar a tal "liberdade" que tanto dizem que o Linux tem, contar um pouco sobre a história dele e, principalmente, mostrar que, diferente do que dizem, o Linux é fácil de usar, simples, personalizável e ainda mais leve e seguro.
