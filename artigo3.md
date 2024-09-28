@@ -156,4 +156,4 @@ sudo apt instal cmatrix || cmatrix
 
 Parabéns! Eu fico admirado com a sua vontade de aprender! Graças a sua vontade de aprender, você leu 2 artigos, e agora, você sabe como usar o `apt`, como criar pastas, deletar pastas, a história do linux, o que é distro, como editar arquivos usando o `nano`, sabe como usar o `cat`, sabe como usa o `echo`, e ainda aprendeu sobre operadores! Agora, você está pronto para colocar a mão da massa, e você já consegue seguir sua jornada de estudos sozinho ou sozinha! Agradeço por ter lido!
 
-# [Teste seus conhecimentos nessa provinha que fiz para vocês!](https://wordwall.net/pt/resource/78857017/bash-script-artigo-2)
+# [Teste seus conhecimentos nessa provinha que fiz para vocês!]([https://wordwall.net/pt/resource/78857017/bash-script-artigo-2](https://wordwall.net/pt/resource/78857017))
