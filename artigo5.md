@@ -114,15 +114,14 @@ Quando você quer criar um container usando o [Docker Hub](https://hub.docker.co
 
 
 1° Passo - Pesquisar pelo que quer (E.x: Arch Linux)
-(Colocar imagem aqui)
+[Imagem aqui!](https://github.com/op3ny/artigo/blob/main/img1.png)
 
 2° Passo - Copiar o comando que está lá dentro (E.x: Arch Linux)
-(Colocar imagem aqui)
+[Imagem 02 aqui!](https://github.com/op3ny/artigo/blob/main/img02.png)
 
 3° Passo - Aguardar dar o push, o que pode demorar de Muito, a bastante!
 
 4° Passo - Simplesmente rodar a maquina! Yei!
-(Colocar imagem aqui)
 
 
 Para isso, basta você rodar o comando:
