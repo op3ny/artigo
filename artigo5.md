@@ -27,7 +27,9 @@ Falei que eu não iria torturar muito vocês em teoria! Sejam bem vindos a... `P
 ---
 
 Chega de piadas, vamos lá, para instalar o Docker você precisa primeiro, ter uma dominância melhor em Bash, então, recomendo você voltar nas partes 1/2 antes de ir para essa, ou você pode ficar beeeemmmm confuso(a), de qualquer forma, se quiser encarar, boa sorte! Lembrando, esse tutorial é **APENAS** para *Debian Baseds* (Debian, Ubuntu, Pop! OS, Linux Mint, etc..), caso contrário, vocẽ pode ter algum problemas já na primeira parte.
+
 ---
+
 Primeiro precisamos atualizar os pacotes e limpar caches, para garantir que nada vai dar errado, então abra seu terminal e digite os seguintes comandos: 
 
 `sudo apt clean` - Remove o "cache" de seus repositórios apt, dando mais tranquilidade para remover conflitos.
