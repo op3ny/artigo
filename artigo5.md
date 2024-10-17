@@ -88,6 +88,7 @@ Caso ainda assim tenha dado erro, tenho duas hipoteses:
 ## Instalado!! Graças a, em fim, quem você acredite...
 
 Bom, não estamos falando de religião, mas de qualquer forma, agora, parabéns! Você tem o Docker instalado com sucesso na sua máquina, e agora, vou te ensinar a como usar essa ferramenta tão poderosa! Mas, calminha ae que preciso instalar na minha maquina virtual, espera um pouquin ai, só um pouco... Mais um pouco.. pronto!
+
 ---
 
 Prontinho, antes de começarmos, mais uma verificação porque Docker gosta de dar um errinho safado kkkk
